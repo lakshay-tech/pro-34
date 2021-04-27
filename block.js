@@ -20,7 +20,7 @@ class Box {
         strokeWeight(4);
         stroke("black");
         fill("red");
-        rect(0,0,this.Width,this.height);
+        rect(0,0,this.width,this.height);
         pop();
     }
 } 
